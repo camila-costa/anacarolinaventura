@@ -24,7 +24,7 @@
 define('DB_NAME', 'u401878201_carol');
 
 /** Usuário do banco de dados MySQL */
-define('DB_USER', '	u401878201_carol');
+define('DB_USER', 'u401878201_carol');
 
 /** Senha do banco de dados MySQL */
 define('DB_PASSWORD', 'Carol_BD');
