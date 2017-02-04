@@ -30,7 +30,7 @@ define('DB_USER', '	u401878201_carol');
 define('DB_PASSWORD', 'Carol_BD');
 
 /** Nome do host do MySQL */
-define('DB_HOST', 'mysql.hostinger.com.br');
+define('DB_HOST', 'localhost');
 
 /** Charset do banco de dados a ser usado na criação das tabelas. */
 define('DB_CHARSET', 'utf8');
